@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Made a jekyll blog"
+title: "Made A Jekyll Blog"
 description: "The best blog ever!"
 comments: true
 keywords: "jekyll, blog"

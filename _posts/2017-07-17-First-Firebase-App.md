@@ -18,7 +18,7 @@ If you are trying to create a simple website or mobile application and
 you do not want to host and setup a MySQL or any other database for it
 you can choose firebase.
 
-For more information about how to integrate your application with Firebase :
+For more information about how to integrate your application with Firebase visit
 <a href="https://firebase.google.com/" target="_blank">Google Firebase</a>
 
 

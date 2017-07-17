@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Anthony, a Software Engineer / Information Systems Specialist. I am enthusiastic about technology that is why I always challenge myself to improve
-and create different types of applications for the end users.
+Hi! I am Anthony, a Software Engineer / Information Systems Specialist. I am enthusiastic about technology that is why I always challenge myself to improve and create different types of applications for the end users.
 
 ### Do you want to hire me?
 
