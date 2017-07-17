@@ -64,9 +64,9 @@
 {% else%}
   <meta property="og:type" content="website">
 {% endif %}
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:url" content="{{ page.baseurl  }}">
   <meta property="og:title" content="{{ page_title }}">
-  <meta property="og:image" content="{{ site.author.thumb }}">
+  <meta property="og:image" content="{{ page.baseurl }}{{ site.author.thumb }}">
   <meta property="og:description" content="{{ page_description }}">
   <meta property="og:site_name" content="{{ site.author.name }}">
   <meta property="og:locale" content="{{ site.og_locale }}">
