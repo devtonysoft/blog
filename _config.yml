@@ -4,7 +4,7 @@ title: "TONY"
 title2: "SOFT" # default: ""
 description: "Personal Blog Made By Anthony"
 keywords: "Web Development, Software Engineering"
-url: https://webdevelopertony.github.io # site url
+url: https://webdevelopertony.github.io/blog # site url
 baseurl: "https://webdevelopertony.github.io/blog" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
@@ -32,7 +32,6 @@ author:
   name     : "Anthony L. Cortez"
   job      : "Software Engineer / Information Systems Specialist"
   bio      : "I am always fascinated on technology and ask questions on the internet how things work."
-  quote    : "You cannot achieve greatness without sacrifice"
   thumb    : /images/author.jpg
   email    : webdeveloper.tonysoft@gmail.com
   url      : https://webdevelopertony.github.io
