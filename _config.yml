@@ -1,0 +1,61 @@
+
+# SEO settings
+title: "TONY"
+title2: "SOFT" # default: ""
+description: "Personal Blog Made By Anthony"
+keywords: "Web Development, Software Engineering"
+url: https://webdevelopertony.github.io/blog # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-XXXXX-XX
+repo: https://github.com/webdevelopertony/blog
+disqus_shortname: "webdevtony"
+twitter_username: ""
+comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Anthony L. Cortez"
+  job      : "Software Engineer / Information Systems Specialist"
+  bio      : "I am always fascinated on technology and ask questions on the internet how things work."
+  quote    : "You cannot achieve greatness without sacrifice"
+  thumb    : /images/author.jpg
+  email    : webdeveloper.tonysoft@gmail.com
+  url      : https://webdevelopertony.github.io
+  github   : https://github.com/webdevelopertony
+  twitter  : 
+  facebook : https://www.facebook.com/tonytheinternetsownboy
+  linkedin : 
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: ""
+
+plugins:
+  - bourbon
+  - jekyll-paginate
+  - jekyll-watch
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
