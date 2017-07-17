@@ -2,7 +2,7 @@
 # SEO settings
 title: "TONY"
 title2: "SOFT" # default: ""
-description: "Personal Blog Made By Anthony"
+description: "Personal Blog Made By Anthony, Posts about web development, software engineering and tech"
 keywords: "Web Development, Software Engineering"
 url: https://webdevelopertony.github.io/blog # site url
 baseurl: "https://webdevelopertony.github.io/blog" # apply repo name if use it under gh-pages branch
