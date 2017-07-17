@@ -19,5 +19,5 @@ I find it interesting because you don't have to create and setup a database
 to create your own blog as web developer. Jekyll posts was created using static pages you just need a template by creating a new file.
 
 For more information about how to setup your jekyll application and how to write a post please refer to this link : 
-<a href="{{ page.jekyll_docu }}" targe="_blank">Jekyll Documentation</a>
+<a href="{{ page.jekyll_docu }}" target="_blank">Jekyll Documentation</a>
 
