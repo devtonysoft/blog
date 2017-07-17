@@ -10,7 +10,7 @@ jekyll_docu: https://jekyllrb.com/docs/home/
 
 I've made my first blog using an application called "jekyll". You can find more
 information about jekyll here : 
-<a href="{{ page.jekyll_website }}" target="_blank">Jekyll Website<a/>. 
+<a href="{{ page.jekyll_website }}" target="_blank">Jekyll Website</a>. 
 
 
 ### Why use jekyll?
