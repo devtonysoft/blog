@@ -4,6 +4,7 @@ title: "First Firebase App"
 description: "Realtime Database"
 comments: true
 keywords: "firebase, database"
+identifier: 2
 ---
 
 Wohhh! I stumbled upon this great tech! it lets you to create a Realtime Database.

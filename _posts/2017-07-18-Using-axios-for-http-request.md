@@ -4,6 +4,7 @@ title: "Using Axios"
 description: "Im gonna ditch jQuery AJAX!"
 comments: true
 keywords: "axios"
+identifier: 3
 ---
 
 Today i've practiced using axios as an alternative for jQuery AJAX Http Request.

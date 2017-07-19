@@ -6,6 +6,7 @@ comments: true
 keywords: "jekyll, blog"
 jekyll_website: https://jekyllrb.com/
 jekyll_docu: https://jekyllrb.com/docs/home/
+identifier: 1
 ---
 
 I've made my first blog using an application called "jekyll". You can find more
