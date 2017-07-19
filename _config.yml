@@ -4,12 +4,12 @@ title: "TONY"
 title2: "SOFT" # default: ""
 description: "Blog made by Tony. Most posts will talk about tech stuff"
 keywords: "Web Development, Software Engineering"
-url: https://webdevelopertony.github.io/blog # site url
+url: https://devtonysoft.github.io/blog # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: https://github.com/webdevelopertony/blog
+repo: https://github.com/devtonysoft/blog
 disqus_shortname: "webdevtony"
 twitter_username: ""
 comments: true
@@ -34,8 +34,8 @@ author:
   bio      : "I am always fascinated on technology and ask questions on the internet how things work."
   thumb    : /images/author.jpg
   email    : webdeveloper.tonysoft@gmail.com
-  url      : https://webdevelopertony.github.io
-  github   : https://github.com/webdevelopertony
+  url      : https://devtonysoft.github.io
+  github   : https://github.com/devtonysoft
   twitter  : 
   facebook : https://www.facebook.com/tonytheinternetsownboy
   linkedin : 
