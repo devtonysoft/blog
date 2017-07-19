@@ -5,7 +5,7 @@ title2: "SOFT" # default: ""
 description: "Blog made by Tony. Most posts will talk about tech stuff"
 keywords: "Web Development, Software Engineering"
 url: https://devtonysoft.github.io/blog # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
+baseurl: "https://devtonysoft.github.io/blog" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
