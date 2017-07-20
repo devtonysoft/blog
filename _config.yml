@@ -4,13 +4,13 @@ title: "TONY"
 title2: "SOFT" # default: ""
 description: "Internet is my bestfriend..."
 keywords: "Web Development, Software Engineering, Life, Self-Thoughts"
-url: https://devtonysoft.github.io/blog # site url
+url: https://iamtonysoft.github.io/blog # site url
 baseurl: "/blog" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: https://github.com/devtonysoft/blog
-disqus_shortname: "webdevtony"
+repo: https://github.com/iamtonysoft/blog
+disqus_shortname: "iamtonysoft"
 twitter_username: ""
 comments: true
 
@@ -33,9 +33,9 @@ author:
   job      : "Software Engineer / Information Systems Specialist"
   bio      : ""
   thumb    : /assets/images/author.jpg
-  email    : webdeveloper.tonysoft@gmail.com
-  url      : https://devtonysoft.github.io
-  github   : https://github.com/devtonysoft
+  email    : iamtonysoft@gmail.com
+  url      : https://iamtonysoft.github.io
+  github   : https://github.com/iamtonysoft
   twitter  : 
   facebook : https://www.facebook.com/tonytheinternetsownboy
   linkedin : 
