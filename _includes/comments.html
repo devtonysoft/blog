@@ -8,9 +8,11 @@
 
       <script>
         var disqus_config = function () {
-          this.page.url = '{{ site.url }}/blog{{ page.id }}';  
+          this.page.url = '{{ site.url }}{{ site.baseurl }}{{ page.id }}';  
           this.page.identifier = '{{ page.identifier }}';
         };
+
+        console.log(disqus_config);
 
         (function() {
             var d = document, s = d.createElement('script');
