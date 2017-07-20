@@ -9,7 +9,7 @@ identifier: 2
 
 Wohhh! I stumbled upon this great tech! it lets you to create a Realtime Database.
 I've also create my own app displaying a simple Hello World! 
-you can view it here <a href="https://webdevelopertony.github.io/firebase-app/" target="_blank">Firebase-App</a>
+you can view it here <a href="{{ site.author.url }}/firebase-app/" target="_blank">Firebase-App</a>
 as you can see it may take some time for the data to load as it connects to your
 Firebase Database.
 
