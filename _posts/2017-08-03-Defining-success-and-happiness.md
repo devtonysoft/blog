@@ -75,9 +75,9 @@ and I can say that this is just a thing in the past that I had survived.
 
 ### What I've learned so far
 
-Being rich doesn't define success
-Being successful doesn't define happiness
-What matters now won't matter later
-Give time to your family and to those things that matters you the most
-Being rich and successful can give you a peace of mind
-Peace of mind matters the most than being rich and successful
+Being rich doesn't define success     
+Being successful doesn't define happiness <br>
+What matters now won't matter later <br>
+Give time to your family and to those things that matters you the most <br>
+Being rich and successful can give you a peace of mind <br>
+Peace of mind matters the most than being rich and successful <br>
