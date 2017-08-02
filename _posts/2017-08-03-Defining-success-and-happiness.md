@@ -71,3 +71,13 @@ Civil and Criminal Cases has been filed by those bastards which they cannot prov
 
 Only time will tell when this things will be done. KARMA will be served to those people. What goes around comes around. There is a time for everything. Maybe after all of this and in the future I will looked back
 and I can say that this is just a thing in the past that I had survived.
+
+
+### What I've learned so far
+
+Being rich doesn't define success
+Being successful doesn't define happiness
+What matters now won't matter later
+Give time to your family and to those things that matters you the most
+Being rich and successful can give you a peace of mind
+Peace of mind matters the most than being rich and successful
